@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Example Content III
+title: Why My Name Is Evan
 description: >
   A page showing Hydejack-specific markdown content.
 image: /assets/img/blog/example-content-iii.jpg
