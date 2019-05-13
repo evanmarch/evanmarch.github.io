@@ -2,7 +2,7 @@
 layout: post
 title: Why My Name Is Evan
 description: >
-  A page showing Hydejack-specific markdown content.
+  Why My Name Is Evan
 image: /assets/img/blog/example-content-iii.jpg
 noindex: true
 ---

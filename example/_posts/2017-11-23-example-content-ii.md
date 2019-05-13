@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Why Being An Actuary Is An Awesome Career
+title: Why I Want to Be an actuary
 description: >
-  Why Being An Actuary Is An Awesome Career
+  Why I Want to Be an actuary
 image: /assets/img/blog/example-content-ii.jpg
 noindex: true
 ---
