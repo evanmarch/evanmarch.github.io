@@ -19,29 +19,29 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 steven li
+title:                 Evan March
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  building things
+  Aspiring Actuary
 
 # A shorter description for the sidebar.
 tagline:               >
-  building things
+  Aspiring Actuary
 
 # A list of keywords for your blog
-keywords:              [steven li]
+keywords:              [evan march, actuarial science]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/stevenli.jpg
+logo:                  /assets/img/evan.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                <steven> <li>
-  email:               <stevenl5@illinois.edu>
+  name:                <evan> <march>
+  email:               <etmarch2@illinois.edu >
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -52,7 +52,7 @@ menu:
   - title:             Blog
     url:               /blog/
   - title:             Contact
-    url:               mailto:stevenl5@illinois.edu
+    url:               mailto:etmarch2@illinois.edu
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
