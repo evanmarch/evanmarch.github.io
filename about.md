@@ -12,13 +12,13 @@ description: >
   i am a student and software engineer, and run a small publication.
 
 # You can show the description on the page by deleting this line:
-hide_description: true
+hide_description: false
 
 # TODO
 # image: /assets/img/blog/hydejack-8.png
 ---
 
-**hey there!** i'm a cs, stats, and math major at [uiuc](https://illinois.edu/). i like to code, build stuff, and play chess from time to time; all-in-all, i love learning new things.
+**hey there!** i'm an actuarial science major at [uiuc](https://illinois.edu/). i like to code, build stuff, and play chess from time to time; all-in-all, i love learning new things.
 
 currently, i'm working on [the rising](https://therising.co/), a publication that covers how changes in the environment impact business, politics, and tech, machine learning research under [professor paris smaragdis](https://paris.cs.illinois.edu/), and will be joining my friend josh's awesome startup, [donotpay](https://paris.cs.illinois.edu/) this summer as a software engineer.
 
