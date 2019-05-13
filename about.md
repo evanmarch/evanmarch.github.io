@@ -18,6 +18,7 @@ hide_description: true
 # image: /assets/img/blog/hydejack-8.png
 ---
 
-**hey there!** i'm an actuarial science major at [uiuc](https://illinois.edu/)penis.
+**hey there!** I'm a Sophomore at [uiuc](https://illinois.edu/) studying Actuarial Science. I enjoy analytics and learning about new ways that the industry is being shaped. Along with this, I have an interest in financial topics including personal investing and saving.
+
 
 *[FLIP]: First-Last-Invert-Play. A coding technique to achieve performant page transition animations.
