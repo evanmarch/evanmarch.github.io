@@ -12,3 +12,6 @@ slug: blog
 description: >
   welcome to my blog! i'll be posting stuff here soon.
 ---
+
+# You can show the description on the page by deleting this line:
+hide_description: true

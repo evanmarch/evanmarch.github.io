@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Why Being An Actuary Is An Awesome Career
+title: Why My Parents Named Me Evan
 description: >
-  Why Being An Actuary Is An Awesome Career
+  Why My Parents Named Me Evan
 image: /assets/img/blog/example-content-ii.jpg
 noindex: true
 ---
