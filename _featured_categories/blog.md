@@ -11,7 +11,6 @@ slug: blog
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
   welcome to my blog! i'll be posting stuff here soon.
----
 
 # You can show the description on the page by deleting this line:
 hide_description: true
