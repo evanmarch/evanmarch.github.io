@@ -1,13 +1,14 @@
 ---
 layout: post
-title: Why I Want to Be an actuary
+title: Why I Want to Be an Actuary
 description: >
-  Why I Want to Be an actuary
+  What is an Actuary and why I feel it's best for me.
 image: /assets/img/blog/example-content-ii.jpg
 noindex: true
 ---
 
-blah blah balh b
+**What Is An Actuary**
+An Actuary is a professional who uses Statistics to assess financial risk.
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 

@@ -52,9 +52,9 @@ menu:
   - title:             Blog
     url:               /blog/
   - title:             Contact
-    url:               mailto:etarch2@illinois.edu
+    url:               mailto:etmarch2@illinois.edu
 
-# Add links to the footer. 
+# Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 # legal:
 #   - title:             Impress
